@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\Users\bhaskarc\GitHub\FTC\robot arm calculator\.metadata\.plugins\org.eclipse.jdt.core
+2684766416.index
