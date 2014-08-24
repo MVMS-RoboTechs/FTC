@@ -4,6 +4,8 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 
+// Some changes
+
 public class ImageLoader {
 	public BufferedImage load(String path){
 		try {
